@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\_dev\\5_webapp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\5_webapp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\5_webapp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\_dev\\5_webapp\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\_dev\\5_webapp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\_dev\\5_webapp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\_dev\\5_webapp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.5_webapp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.5_webapp.props",
+      "PackagePath": "build\\5_webapp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.5_webapp.props",
+      "PackagePath": "buildMultiTargeting\\5_webapp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.5_webapp.props",
+      "PackagePath": "buildTransitive\\5_webapp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
