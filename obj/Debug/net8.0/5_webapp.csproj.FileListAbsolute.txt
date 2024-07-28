@@ -27,3 +27,4 @@ C:\_dev\5_webapp\obj\Debug\net8.0\refint\5_webapp.dll
 C:\_dev\5_webapp\obj\Debug\net8.0\5_webapp.pdb
 C:\_dev\5_webapp\obj\Debug\net8.0\5_webapp.genruntimeconfig.cache
 C:\_dev\5_webapp\obj\Debug\net8.0\ref\5_webapp.dll
+C:\_dev\5_webapp\obj\Debug\net8.0\5_webapp.sourcelink.json
